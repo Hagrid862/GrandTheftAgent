@@ -1,0 +1,17 @@
+# Unreal-generated files in the project and source plugins.
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local package output directories.
+/Artifacts/
+/Builds/
+
+# Local IDE and operating system metadata.
+.vs/
+.idea/
+*.xcworkspace
+*.xcodeproj
+*.sln
+.DS_Store
